@@ -1,0 +1,31 @@
+/* .positioned {
+    position: absolute;
+  } */
+
+.color {
+  background-color: black !important;
+}
+
+.nav button {
+  color: white;
+}
+
+.filterDown {
+  display: flex !important ;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  color: white;
+}
+
+.filterMain {
+  background-color: black !important;
+  margin-left: 30px;
+}
+
+.css-hyxlzm {
+  color: black;
+}
+
+.appBarNavBar {
+  background-color: black !important;
+}

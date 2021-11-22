@@ -1,0 +1,10 @@
+.product__block {
+  padding-top: 5%;
+}
+
+.img {
+  width: 70% !important;
+  margin-left: 25%;
+  border-radius: 12px;
+  margin-top: 50px;
+}

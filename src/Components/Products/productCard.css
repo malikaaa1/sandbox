@@ -1,0 +1,75 @@
+.card {
+  background-color: rgb(12, 11, 11);
+  color: white;
+}
+.cardCont {
+  border: 1px solid rgb(221, 215, 215);
+}
+.ava {
+  background-color: crimson;
+}
+
+/*           Animation card image          */
+
+.dws-wrapper {
+  position: relative;
+  /* border: solid 5px rgba(255, 255, 255, 0.8); */
+  background: linear-gradient(20deg, #f00, #00f);
+  overflow: hidden;
+}
+.dws-wrapper a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+.dws-wrapper a img {
+  width: 100%;
+}
+.dws-text {
+  position: absolute;
+  text-align: center;
+  top: 30%;
+  left: 24%;
+  opacity: 0;
+  z-index: 100;
+  transition: 0.5s ease;
+}
+.dws-text h3 {
+  font-size: 30px;
+  color: white;
+}
+
+.dws-wrapper a:before,
+.dws-wrapper a:after {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  transition: 0.5s ease-in-out;
+  mix-blend-mode: darken;
+}
+.dws-wrapper a:before {
+  right: 0;
+  bottom: -100%;
+  background: rgba(230, 12, 50, 0.8);
+  transform: skew(-45deg) translateX(100%);
+}
+.dws-wrapper a:after {
+  left: 0;
+  top: -100%;
+  background: rgba(11, 72, 174, 0.8);
+  transform: skew(135deg) translateX(-100%);
+}
+.dws-wrapper:hover a:before {
+  transform: skew(-45deg) translateX(0%);
+}
+.dws-wrapper:hover a:after {
+  transform: skew(135deg) translateX(0%);
+}
+.dws-wrapper:hover .dws-text {
+  opacity: 1;
+}
+
+.cardTitle {
+  font-size: 2rem;
+}

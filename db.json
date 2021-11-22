@@ -1,0 +1,312 @@
+{
+  "products": [
+    {
+      "type": "Phone",
+      "brand": "Apple",
+      "title": "Iphone 13 Pro",
+      "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life.Let’s Pro.",
+      "price": "999",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/holiday-pg-iphone12-202111?wid=600&hei=460&fmt=png-alpha&.v=1635277103000"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 1
+    },
+    {
+      "type": "New",
+      "brand": "Apple",
+      "title": "Keyboard",
+      "description": "Magic Keyboard is now available with Touch ID, providing fast, easy, and secure authentication for logins and purchases. Magic Keyboard with Touch ID delivers a remarkably comfortable and precise typing experience. It’s also wireless and rechargeable, with an incredibly long-lasting internal battery that will power your keyboard for about a month or more between charges.¹ It pairs automatically with your Mac,so you can get to work right away. And it includes a woven USB-C to Lightning Cable that lets you pair and charge by connecting to a USB-C port on your Mac.",
+      "price": "349",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "memory": "64",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/holiday-pg-magickeyboard-202111?wid=600&hei=460&fmt=png-alpha&.v=1635277097000"
+      ],
+      "countInStock": "5",
+      "model": "Magic Keyboard-White",
+      "id": 2
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "Apple Watch",
+      "description": "The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Sport Loop is made from a soft and breathable double-layer nylon weave, with a hook-and-loop fastener for quick and easy adjustment.",
+      "price": "279",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "memory": "256",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/holiday-pg-watchse-202111?wid=600&hei=460&fmt=png-alpha&.v=1635277084000"
+      ],
+      "countInStock": "5",
+      "model": "Apple Watch",
+      "id": 3
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "AirPods Pro",
+      "description": [
+        "Sweat and water resistant, including the case — so you’re covered.Magical experience. Connect effortlessly, automatically switch between all your devices, and share audio easily."
+      ],
+      "price": "249",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996700 312 312",
+      "memory": "512",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/holiday-pg-airpodspro-202111?wid=600&hei=460&fmt=png-alpha&.v=1635277111000"
+      ],
+      "countInStock": "5",
+      "model": "AirPods Pro",
+      "id": 4
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "Accessories HomePod mini",
+      "description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom.",
+      "price": "5300",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "memory": "128",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-homepod-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633355783000"
+      ],
+      "countInStock": "5",
+      "model": "HomePod mini",
+      "id": 5
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "Apple TV 4K",
+      "description": "A12 Bionic brings more performance to your TV.The Siri Remote for precise control.",
+      "price": "4300",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "+996 700 312 312",
+      "memory": "1024",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/holiday-pg-atv4k-202111?wid=600&hei=460&fmt=png-alpha&.v=1635277109000"
+      ],
+      "countInStock": "5",
+      "model": "Apple TV 4K",
+      "id": 6
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "Magic",
+      "description": "A12 Bionic brings more performance to your TV.The Siri Remote for precise control.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MYMG2?wid=266&hei=291&fmt=png-alpha&.v=1601053195000"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 7
+    },
+    {
+      "type": "Accessories",
+      "brand": "Sumsung",
+      "title": "Bottel",
+      "description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HPAS2?wid=266&hei=291&fmt=png-alpha&.v=1610652209000"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 8
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "Magic",
+      "description": "Sweat and water resistant, including the case — so you’re covered.Magical experience. Connect effortlessly, automatically switch between all your devices, and share audio easily.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-white-202110?wid=266&hei=291&fmt=png-alpha&.v=1632925509000"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 9
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "Light",
+      "description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HPE62?wid=266&hei=291&fmt=png-alpha&.v=1636125755000"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 10
+    },
+    {
+      "type": "Accessories",
+      "brand": "Samsung",
+      "title": "Iphone",
+      "description": "A12 Bionic brings more performance to your TV.The Siri Remote for precise control.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HNKK2?wid=266&hei=291&fmt=png-alpha&.v=1568848140355"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 11
+    },
+    {
+      "type": "Accessories",
+      "brand": "Apple",
+      "title": "AirPods",
+      "description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJ503?wid=266&hei=291&fmt=png-alpha&.v=1621538312000"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 12
+    },
+    {
+      "type": "Accessories",
+      "brand": "Samsung",
+      "title": "USb",
+      "description": "Sweat and water resistant, including the case — so you’re covered.Magical experience. Connect effortlessly, automatically switch between all your devices, and share audio easily.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://www.samsungstore.kg/files/media/0/972.png"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 13
+    },
+    {
+      "type": "Accessories",
+      "brand": "Samsung",
+      "title": "DMC",
+      "description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://www.samsungstore.kg/files/media/5/5565.jpg"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 14
+    },
+    {
+      "type": "Accessories",
+      "brand": "Samsung",
+      "title": "USD",
+      "description": "Sweat and water resistant, including the case — so you’re covered.Magical experience. Connect effortlessly, automatically switch between all your devices, and share audio easily.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://www.samsungstore.kg/files/media/0/984.jpg"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 15
+    },
+    {
+      "type": "Accessories",
+      "brand": "Sumsung",
+      "title": "MD",
+      "description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://www.samsungstore.kg/files/media/2/2610.jpg"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 16
+    },
+    {
+      "type": "Accessories",
+      "brand": "Samsung",
+      "title": "PHM",
+      "description": "A12 Bionic brings more performance to your TV.The Siri Remote for precise control.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://www.samsungstore.kg/cache/files/4105.jpg_w630_h480_resize.jpg?t=1601911748"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 17
+    },
+    {
+      "type": "Accessories",
+      "brand": "Samsung",
+      "title": "AIM",
+      "description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom.",
+      "price": "600",
+      "salePrice": "500",
+      "discountInPercent": "5",
+      "phone": "0667667676776",
+      "image": [
+        "https://www.samsungstore.kg/files/media/9/9627.png"
+      ],
+      "memory": "128",
+      "countInStock": "5",
+      "model": "Pro max",
+      "id": 18
+    }
+  ]
+}

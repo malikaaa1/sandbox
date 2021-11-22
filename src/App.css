@@ -1,0 +1,6 @@
+body {
+  background-color: black;
+  background-image: url("https://www.apple.com/105/media/us/airpods/2021/625e09e3-e26e-49ed-a5ee-6e4eda5d275f/anim/supercut/large_2x.mp4");
+  background-repeat: no-repeat, repeat;
+  background-size: 100%;
+}

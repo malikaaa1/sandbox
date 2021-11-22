@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}

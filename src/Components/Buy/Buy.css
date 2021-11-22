@@ -1,0 +1,92 @@
+.buyForm {
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+.buyForm a {
+  height: 60px;
+}
+
+.buyContainer {
+  padding: 60px;
+  /* margin: auto; */
+  min-width: 380px;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 2px solid black;
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+  background: #e9e9e9;
+  border-radius: 10px;
+  margin-left: 20%;
+}
+.buyButton {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 19px;
+  letter-spacing: 1px;
+  background: crimson;
+  cursor: pointer;
+  font-weight: bolder;
+  border-radius: 10px;
+  margin-top: 7%;
+}
+.buyLabel {
+  margin: 14px 0;
+  display: block;
+  font-size: 25px;
+  line-height: 1;
+  font-weight: 18px;
+}
+.buyInput {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 19px;
+  padding: 10px;
+  letter-spacing: 1px;
+}
+
+/* modal */
+
+.modalWindowBuy {
+  padding: 24px 0;
+  z-index: 2;
+  position: fixed;
+  margin-left: 34%;
+}
+
+.back {
+  width: 200px;
+  height: 50px;
+  margin-top: 7%;
+  margin-left: 20px;
+  font-size: large;
+  color: white;
+  background-color: crimson;
+  border: crimson;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.orderForm {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 25%;
+}
+
+.paymentDiv {
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+.buyPaymentCard {
+  margin-left: 20px;
+  width: 350px;
+}

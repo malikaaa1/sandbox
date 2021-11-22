@@ -1,0 +1,51 @@
+.cart td {
+  padding: 20px 60px;
+  border-bottom: 1px solid gray;
+}
+.cart img {
+  width: 100px;
+}
+
+.cart {
+  color: white;
+  margin-top: 4%;
+  height: 100%;
+  margin-bottom: 25%;
+
+}
+.delete{
+  background-color: crimson;
+ color: white;
+ border-radius: 5px;
+}
+
+.cart p{
+  margin-left: 50px;
+  color:wheat;
+  margin-bottom: 20%;
+
+}
+
+.cart th{
+  font-size: 20px;
+}
+
+.cart input{
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+.cart h4{
+  margin-left: 30px;
+}
+
+.buy{
+  width: 80px;
+  height: 35px;
+  margin-left: 30px;
+  background-color: #03AC13;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+}

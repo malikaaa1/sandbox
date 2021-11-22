@@ -1,0 +1,82 @@
+.login {
+  width: 100%;
+  min-height: 90vh;
+  background: black;
+  display: flex;
+  margin-top: 8%;
+  margin-bottom: 10%;
+}
+.loginContainer {
+  padding: 40px;
+  /* margin: auto; */
+  min-width: 380px;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 2px solid black;
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+  background: #e9e9e9;
+  border-radius: 10px;
+  margin-left: 20%;
+}
+.authButton {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  background: crimson;
+  cursor: pointer;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+.authLabel {
+  margin: 14px 0;
+  display: block;
+  font-size: 1.5rem;
+  line-height: 1;
+  font-weight: 18px;
+}
+.authInput {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 1.3rem;
+  padding: 10px;
+  letter-spacing: 1px;
+}
+.btnContainer {
+  width: 100%;
+}
+.authP {
+  margin: 10px 0 0 0;
+  text-align: right;
+  cursor: pointer;
+}
+.authSpan {
+  color: #09388f;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-left: 5px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
+.errorMsg {
+  color: red;
+  font-size: 16px;
+}
+
+.back {
+  width: 200px;
+  height: 50px;
+  margin-top: 100px;
+  margin-left: 50px;
+  font-size: large;
+  color: white;
+  background-color: crimson;
+  border: crimson;
+  border-radius: 9px;
+}
